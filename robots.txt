@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dimuthuwije.github.io/dimuthuwije.github.io/sitemap.xml
+Sitemap: https://dimuthuwije.github.io/portfolio/sitemap.xml
