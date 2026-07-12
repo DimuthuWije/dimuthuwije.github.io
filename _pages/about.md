@@ -1,34 +1,50 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+subtitle: >
+  <a href='https://www.synopsys.com'>Synopsys Inc</a> •
+  <a href='https://www.curtin.edu.au/'>Curtin University</a><br>
 
 profile:
   align: left
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: DP.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Colombo, Sri Lanka</p>
+    <p style="font-size: 0.95rem; line-height: 1.2;">Robotics & Autonomous Systems</p>
+    <p style="font-size: 0.95rem; line-height: 1.2;">Mobile Robotics • Perception</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Electrical and Electronics Engineering graduate and Robotics & Autonomous Systems researcher interested in developing intelligent mobile robots capable of operating in complex and unstructured environments.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie at the intersection of autonomous mobile robotics, perception, embedded systems, and robot control. I am particularly interested in autonomous navigation, sensor integration, and real-world robotic systems for challenging environments.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As an Application Engineer at <a href="https://www.synopsys.com">Synopsys</a>, I contribute to semiconductor verification solutions while continuing to develop my robotics research portfolio through independent projects and publications.
+
+I completed my Bachelor of Engineering (Honours) in Electrical and Electronics Engineering at <a href="https://www.curtin.edu.au/">Curtin University</a>. My previous work includes mobile robotics platforms, computer vision-based perception systems, and embedded robotic applications.
+
+My previous work includes mobile robotics platforms, computer vision-based perception systems, and embedded robotic applications.
+
+
+
+## Research Interests
+
+- Autonomous Mobile Robotics
+- Human-Robot Interaction & Teleoperation
+- Robot Perception & Sensor Integration
+- Navigation in Unstructured Environments
+- Embedded Robotic Systems
+
+## Selected Publications
+
+{% bibliography --query @*[selected=true]* %}

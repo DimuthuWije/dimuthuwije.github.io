@@ -1,0 +1,58 @@
+/*******************************************************************************
+ * Light Theme Colors (Restores Default Light Background)
+ ******************************************************************************/
+html[data-theme='light'] {
+  --global-bg-color: #ffffff;
+  --global-code-bg-color: #f5f5f5;
+  --global-text-color: #000000;
+  --global-text-color-light: #828282;
+  --global-theme-color: #ff5000; /* Dark Orange for Light Mode */
+  --global-hover-color: #e53200;
+  --global-footer-bg-color: #1c1c1d;
+  --global-footer-text-color: #e8e8e8;
+  --global-footer-link-color: #ffffff;
+}
+
+/*******************************************************************************
+ * Dark Theme Colors (Restores Dark Background + Adds Dark Orange)
+ ******************************************************************************/
+html[data-theme='dark'] {
+  --global-bg-color: #1c1c1d;
+  --global-code-bg-color: #2c2c2e;
+  --global-text-color: #ffffff;
+  --global-text-color-light: #aeaea3;
+  --global-theme-color: #ff5000; /* Dark Orange for Dark Mode */
+  --global-hover-color: #e53200;
+  --global-footer-bg-color: #ffffff;
+  --global-footer-text-color: #1c1c1d;
+  --global-footer-link-color: #000000;
+}
+
+/*******************************************************************************
+ * Fix Theme Toggle Icons (Hides inactive icons based on active theme)
+ ******************************************************************************/
+html[data-theme='light'] {
+  #light-toggle-system { display: none !important; }
+  #light-toggle-dark { display: inline-block !important; }
+  #light-toggle-light { display: none !important; }
+
+  --global-footer-bg-color: #f5f5f5;
+  --global-footer-text-color: #333333;
+  --global-footer-link-color: #333333;
+}
+
+html[data-theme='dark'] {
+  #light-toggle-system { display: none !important; }
+  #light-toggle-dark { display: none !important; }
+  #light-toggle-light { display: inline-block !important; }
+
+  --global-footer-bg-color: #111111;
+  --global-footer-text-color: #e8e8e8;
+  --global-footer-link-color: #e8e8e8;
+}
+
+html[data-theme='system'] {
+  #light-toggle-system { display: inline-block !important; }
+  #light-toggle-dark { display: none !important; }
+  #light-toggle-light { display: none !important; }
+}
