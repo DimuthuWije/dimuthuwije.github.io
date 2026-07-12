@@ -51,10 +51,10 @@ The completed platform provides a foundation for future research involving legge
 <div class="row justify-content-center">
 
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img
-        src="/assets/img/projects/QuadrupedRobotWave.gif"
-        alt="Completed quadruped robotic platform"
-        class="img-fluid rounded z-depth-1">
+        {% include figure.liquid 
+        path="assets/img/projects/QuadrupedRobotWave.gif" 
+        title="Wind turbine prototype demonstration" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
 
 </div>
