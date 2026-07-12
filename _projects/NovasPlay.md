@@ -36,6 +36,7 @@ NovasPlay is a teleoperated omnidirectional soccer-playing robot developed as a 
         <video
             controls
             preload="metadata"
+            playsinline
             poster="/assets/img/projects/NovasPlayCover.jpg"
             class="img-fluid rounded z-depth-1"
             style="width:100%; aspect-ratio:16/9; background:#000;">
