@@ -18,14 +18,15 @@ This project involved the design, fabrication, and evaluation of a small-scale w
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
 
-        <video
-            controls
-            preload="metadata"
-            poster="/assets/img/projects/WindTurbineCover.png"
+        <iframe
+            src="https://www.youtube.com/embed/gA9Jy8FKPA8"
+            title="Wind Turbine project video"
             class="img-fluid rounded z-depth-1"
-            style="width:100%; aspect-ratio:16/9; background:#000;">
-            <source src="/assets/video/WindTurbine.mp4" type="video/mp4">
-        </video>
+            style="width:100%; aspect-ratio:16/9; border:0;"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen>
+        </iframe>
 
     </div>
 </div>

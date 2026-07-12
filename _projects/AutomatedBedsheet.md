@@ -18,14 +18,15 @@ The Automated Bedsheet project focused on developing a functional prototype for 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
 
-        <video
-            controls
-            preload="metadata"
-            poster="/assets/img/projects/AutomatedBesheetThumbnail.png"
+        <iframe
+            src="https://www.youtube.com/embed/W1tYdaprH44"
+            title="Automated Bedsheet Robot"
             class="img-fluid rounded z-depth-1"
-            style="width:100%; aspect-ratio:16/9; background:#000;">
-            <source src="/assets/video/AutomatedBedsheet.mp4" type="video/mp4">
-        </video>
+            style="width:100%; aspect-ratio:16/9; background:#000;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+        </iframe>
 
     </div>
 </div>

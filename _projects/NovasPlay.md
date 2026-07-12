@@ -15,33 +15,18 @@ NovasPlay is a teleoperated omnidirectional soccer-playing robot developed as a 
 
 ---
 
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe 
-            src="https://www.youtube.com/embed/MOZ-UxrvPcE"
-            title="NovasPlay Demo Video"
-            class="img-fluid rounded z-depth-1"
-            style="width:100%; aspect-ratio:16/9;"
-            allowfullscreen>
-        </iframe>
-    </div>
-</div>
-
-<div class="caption">
-    NovasPlay - Omnidirectional Soccer Robot demonstration video (44-sec).
-</div> -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
 
-        <video
-            controls
-            preload="metadata"
-            playsinline
-            poster="/assets/img/projects/NovasPlayCover.jpg"
+        <iframe
+            src="https://www.youtube.com/embed/jjJ8Qch31Zs?rel=0"
+            title="NovasPlay omnidirectional soccer robot"
             class="img-fluid rounded z-depth-1"
-            style="width:100%; aspect-ratio:16/9; background:#000;">
-            <source src="/assets/video/NovasPlay.mp4" type="video/mp4">
-        </video>
+            style="width:100%; aspect-ratio:16/9; background:#000;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
 
     </div>
 </div>

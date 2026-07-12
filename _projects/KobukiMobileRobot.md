@@ -20,14 +20,14 @@ The work focused on understanding robotic software architectures, ROS2 communica
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
 
-        <video
-            controls
-            preload="metadata"
-            poster="/assets/img/projects/KobukiBanner.jpeg"
+        <iframe
+            src="https://www.youtube.com/embed/yCJIzgNYGGM"
+            title="Kobuki Mobile Robot"
             class="img-fluid rounded z-depth-1"
-            style="width:100%; aspect-ratio:16/9; background:#000;">
-            <source src="/assets/video/Kobuki.mp4" type="video/mp4">
-        </video>
+            style="width:100%; aspect-ratio:16/9; background:#000; border:0;"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+        </iframe>
 
     </div>
 </div>
