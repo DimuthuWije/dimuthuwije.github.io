@@ -56,3 +56,17 @@ html[data-theme='system'] {
   #light-toggle-dark { display: none !important; }
   #light-toggle-light { display: none !important; }
 }
+
+#bibsearch {
+  border: 1px solid var(--global-text-color-light);
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  width: 100%;
+  background-color: var(--global-bg-color);
+  color: var(--global-text-color);
+}
+
+#bibsearch:focus {
+  border-color: var(--global-theme-color);
+  outline: none;
+}

@@ -34,7 +34,7 @@ Purple Poster Event at Synopsys - jCrash
 
 
 **Competitor**  
-Synopsys RoboCup Competition - [NovasPlay](../projects/NovasPlay/)
+Synopsys RoboCup Competition - [NovasPlay Robot](../projects/NovasPlay/)
 
 
 ---

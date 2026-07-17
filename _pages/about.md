@@ -15,7 +15,7 @@ profile:
     <p style="font-size: 0.95rem; line-height: 1.2;">Robotics & Autonomous Systems</p>
     <p style="font-size: 0.95rem; line-height: 1.2;">Mobile Robotics • Perception</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
@@ -45,6 +45,3 @@ My previous work includes mobile robotics platforms, computer vision-based perce
 - Navigation in Unstructured Environments
 - Embedded Robotic Systems
 
-## Selected Publications
-
-{% bibliography --query @*[selected=true]* %}

@@ -66,7 +66,7 @@ The prototype was based on a Schmitt-trigger inverter architecture using a 74AC1
 </div>
 
 <div class="caption">
-    Circuit design of the low-cost time-domain reflectometer prototype.
+    Schematic of the low-cost time-domain reflectometer prototype.
 </div>
 
 ---
