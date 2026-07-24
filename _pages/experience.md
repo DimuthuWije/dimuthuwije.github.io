@@ -50,7 +50,7 @@ nav_order: 2
   <div class="col-sm-10">
     <h5>Software Engineer</h5>
     <p>
-      <a href="#">Insharp Technologies</a>
+      <a href="https://insharptechnologies.com">Insharp Technologies</a>
     </p>
   </div>
 
@@ -67,7 +67,7 @@ nav_order: 2
   <div class="col-sm-10">
     <h5>Undergraduate Research Assistant</h5>
     <p>
-        <a href="#">SCoRe Lab</a>, University of Colombo School of Computing
+        <a href="https://scorelab.org">SCoRe Lab</a>, University of Colombo School of Computing
     </p>
   </div>
 

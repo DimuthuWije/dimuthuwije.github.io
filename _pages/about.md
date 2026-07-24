@@ -25,23 +25,20 @@ latest_posts:
   enabled: false
 ---
 
-I am an Electrical and Electronics Engineering graduate and Robotics & Autonomous Systems researcher interested in developing intelligent mobile robots capable of operating in complex and unstructured environments.
+I am an Electrical and Electronics Engineering graduate focused on robotics and autonomous systems, particularly on developing intelligent mobile robots capable of operating in complex and unstructured environments.
 
-My research interests lie at the intersection of autonomous mobile robotics, perception, embedded systems, and robot control. I am particularly interested in autonomous navigation, sensor integration, and real-world robotic systems for challenging environments.
+My interests lie at the intersection of autonomous mobile robotics, robot perception, embedded systems, and intelligent control. I am particularly interested in autonomous navigation, sensor integration, and real-world robotic systems for challenging environments.
 
-As an Application Engineer at <a href="https://www.synopsys.com">Synopsys</a>, I contribute to semiconductor verification solutions while continuing to develop my robotics research portfolio through independent projects and publications.
+As an Application Engineer at <a href="https://www.synopsys.com">Synopsys</a>, I contribute to semiconductor verification solutions while continuing to develop my robotics portfolio through research projects, engineering projects, and publications.
 
-I completed my Bachelor of Engineering (Honours) in Electrical and Electronics Engineering at <a href="https://www.curtin.edu.au/">Curtin University</a>. My previous work includes mobile robotics platforms, computer vision-based perception systems, and embedded robotic applications.
+I completed my Bachelor of Engineering (Honours) in Electrical and Electronic Engineering at <a href="https://www.curtin.edu.au/">Curtin University</a>. My previous work includes mobile robotic platforms, computer vision-based perception systems, embedded systems, and hardware development for real-world applications.
 
-My previous work includes mobile robotics platforms, computer vision-based perception systems, and embedded robotic applications.
-
-
+<br>
 
 ## Research Interests
 
 - Autonomous Mobile Robotics
-- Human-Robot Interaction & Teleoperation
 - Robot Perception & Sensor Integration
 - Navigation in Unstructured Environments
 - Embedded Robotic Systems
-
+- Intelligent Robot Control

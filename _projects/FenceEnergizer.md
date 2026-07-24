@@ -11,7 +11,13 @@ slug: "low-cost-electric-fence-energizer"
 
 ## Low-cost Electric Fence Energizer Development
 
-This project involved analysing an electric fence energizer system as part of a SCoRe Lab research initiative focused on developing affordable technologies for human–elephant conflict mitigation.
+<!-- This project involved analysing an electric fence energizer system as part of a SCoRe Lab research initiative focused on developing affordable technologies for human–elephant conflict mitigation. -->
+
+This project involved analysing an electric fence energizer system as part of a 
+<a href="https://scorelab.org/ASSET/" target="_blank">
+SCoRe Lab
+</a>
+research initiative focused on developing affordable technologies for human–elephant conflict mitigation.
 
 The objective was to understand the circuit architecture of an existing commercial fence energizer and reconstruct its design approach to support the development of a lower-cost alternative for communities affected by elephant-related crop damage.
 
@@ -174,3 +180,8 @@ The schematic was organised to represent the different functional sections of th
 This project provided an understanding of the electrical architecture and design principles of an electric fence energizer system.
 
 The reconstructed circuit provided a foundation for developing a low-cost alternative for electric fence applications and demonstrated practical experience in PCB analysis, circuit reconstruction, hardware investigation, and electronic system design.
+
+This work was conducted as part of research activities at 
+<a href="https://scorelab.org" target="_blank">
+SCoRe Lab
+</a>, University of Colombo School of Computing.

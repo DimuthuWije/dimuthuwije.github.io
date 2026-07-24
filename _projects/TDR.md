@@ -9,9 +9,15 @@ related_publications: false
 slug: "low-cost-time-domain-reflectometer"
 ---
 
-## Low-cost Time-Domain Reflectometer for Electric Fence Fault Detection
+## Low-cost TDR for Electric Fence Fault Detection
 
-This project involved the development of a low-cost Time-Domain Reflectometer (TDR) as part of a research initiative focused on improving electric fence maintenance for human–elephant conflict mitigation.
+<!-- This project involved the development of a low-cost Time-Domain Reflectometer (TDR) as part of a research initiative focused on improving electric fence maintenance for human–elephant conflict mitigation. -->
+
+This project involved the development of a low-cost Time-Domain Reflectometer (TDR) as part of the 
+<a href="https://scorelab.org/ASSET/" target="_blank">
+SCoRe Lab
+</a>
+research initiative focused on improving electric fence maintenance for human–elephant conflict mitigation.
 
 The objective was to investigate a low-cost approach for locating discontinuities in electric fence wiring by analysing signal reflections along transmission lines, reducing reliance on expensive commercial measurement equipment.
 
