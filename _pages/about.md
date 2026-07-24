@@ -27,7 +27,7 @@ latest_posts:
 
 I am an Electrical and Electronics Engineering graduate focused on robotics and autonomous systems, particularly on developing intelligent mobile robots capable of operating in complex and unstructured environments.
 
-My interests lie at the intersection of autonomous mobile robotics, robot perception, embedded systems, and intelligent control. I am particularly interested in autonomous navigation, sensor integration, and real-world robotic systems for challenging environments.
+My work explores the intersection of autonomous mobile robotics, robot perception, embedded systems, and intelligent control. I am particularly interested in autonomous navigation, sensor integration, and real-world robotic systems for challenging environments.
 
 As an Application Engineer at <a href="https://www.synopsys.com">Synopsys</a>, I contribute to semiconductor verification solutions while continuing to develop my robotics portfolio through research projects, engineering projects, and publications.
 
