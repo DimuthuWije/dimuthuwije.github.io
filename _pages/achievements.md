@@ -8,6 +8,13 @@ nav_order: 4
 
 ## Awards, Presentations & Recognition
 
+
+### 2024
+
+**Synopsys Innovations Award**  - jCrash
+
+---
+
 ### 2026
 
 **Presenter**  
@@ -25,9 +32,6 @@ Purple Poster Event at Synopsys - jTerm
 ---
 
 ### 2024
-
-**3rd Place - Synopsys Innovations Award**  - jCrash
-
 
 **Presenter**  
 Purple Poster Event at Synopsys - jCrash
