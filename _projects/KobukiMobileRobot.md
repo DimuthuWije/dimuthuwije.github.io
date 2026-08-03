@@ -74,7 +74,7 @@ The platform provided access to velocity commands, odometry feedback, and sensor
 
 ## ROS2 Communication Architecture
 
-The robot was controlled using ROS2 publisher–subscriber communication.
+The robot was controlled using ROS2 publisher-subscriber communication.
 
 Keyboard-based teleoperation commands were converted into velocity messages and published through the `/commands/velocity` topic. The Kobuki driver node subscribed to these commands, interfaced with the robot base controller, and published sensor and odometry feedback.
 

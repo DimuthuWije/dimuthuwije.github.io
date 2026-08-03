@@ -17,7 +17,7 @@ This project involved analysing an electric fence energizer system as part of a
 <a href="https://scorelab.org/ASSET/" target="_blank">
 SCoRe Lab
 </a>
-research initiative focused on developing affordable technologies for human–elephant conflict mitigation.
+research initiative focused on developing affordable technologies for human-elephant conflict mitigation.
 
 The objective was to understand the circuit architecture of an existing commercial fence energizer and reconstruct its design approach to support the development of a lower-cost alternative for communities affected by elephant-related crop damage.
 
@@ -44,7 +44,7 @@ The objective was to understand the circuit architecture of an existing commerci
 
 ## Problem Context
 
-Electric fences are widely used in Sri Lanka to reduce human–elephant conflict by protecting agricultural areas located near elephant habitats. However, commercially available fence energizers can be expensive, limiting accessibility for communities that rely on these systems for crop protection.
+Electric fences are widely used in Sri Lanka to reduce human-elephant conflict by protecting agricultural areas located near elephant habitats. However, commercially available fence energizers can be expensive, limiting accessibility for communities that rely on these systems for crop protection.
 
 As part of a broader SCoRe Lab research initiative, this project explored the electrical architecture of a fence energizer system to support the development of a lower-cost alternative.
 
@@ -133,17 +133,34 @@ Some connections were hidden beneath integrated circuits, requiring continuity m
 
 ## Schematic Reconstruction
 
-After completing the PCB trace analysis, the circuit was reconstructed as a schematic using Multisim.
+After completing the PCB trace analysis, the circuit was first divided into its major functional sections to better understand the role of each stage within the energizer architecture.
 
-The schematic was organised to represent the different functional sections of the energizer, including the low-voltage control circuitry and high-voltage pulse generation stage.
+<div class="row justify-content-center">
+
+    <div class="col-sm-6 mt-3 mt-md-0">
+
+        {% include figure.liquid
+        path="assets/img/projects/FenceEnergizerHVLV.jpeg"
+        title="High-voltage and low-voltage sections of the energizer circuit"
+        class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
+
+<div class="caption">
+    Separation of the high-voltage and low-voltage sections used to analyse the functional architecture of the energizer.
+</div>
+
+The understanding gained from this functional decomposition was then used to reconstruct the complete circuit schematic in Multisim.
 
 <div class="row justify-content-center">
 
     <div class="col-sm-8 mt-3 mt-md-0">
 
-        {% include figure.liquid 
-        path="assets/img/projects/FenceEnergizerSchematic.png" 
-        title="Reconstructed fence energizer schematic" 
+        {% include figure.liquid
+        path="assets/img/projects/FenceEnergizerSchematic.png"
+        title="Reconstructed fence energizer schematic"
         class="img-fluid rounded z-depth-1" %}
 
     </div>
@@ -152,25 +169,6 @@ The schematic was organised to represent the different functional sections of th
 
 <div class="caption">
     Reconstructed schematic developed from PCB trace analysis and component identification.
-</div>
-
----
-
-<div class="row justify-content-center">
-
-    <div class="col-sm-6 mt-3 mt-md-0">
-
-        {% include figure.liquid 
-        path="assets/img/projects/FenceEnergizerHVLV.jpeg" 
-        title="High-voltage and low-voltage sections of the energizer circuit" 
-        class="img-fluid rounded z-depth-1" %}
-
-    </div>
-
-</div>
-
-<div class="caption">
-    Separation of high-voltage and low-voltage sections to analyse the functional architecture of the energizer system.
 </div>
 
 ---

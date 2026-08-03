@@ -17,7 +17,7 @@ This project involved the development of a low-cost Time-Domain Reflectometer (T
 <a href="https://scorelab.org/ASSET/" target="_blank">
 SCoRe Lab
 </a>
-research initiative focused on improving electric fence maintenance for human–elephant conflict mitigation.
+research initiative focused on improving electric fence maintenance for human-elephant conflict mitigation.
 
 The objective was to investigate a low-cost approach for locating discontinuities in electric fence wiring by analysing signal reflections along transmission lines, reducing reliance on expensive commercial measurement equipment.
 
@@ -44,7 +44,7 @@ The objective was to investigate a low-cost approach for locating discontinuitie
 
 ## Problem Context
 
-Electric fences are widely used in Sri Lanka to reduce human–elephant conflict by protecting agricultural areas located near elephant habitats. However, maintaining these systems is challenging because fence lines can extend over several kilometres across remote areas.
+Electric fences are widely used in Sri Lanka to reduce human-elephant conflict by protecting agricultural areas located near elephant habitats. However, maintaining these systems is challenging because fence lines can extend over several kilometres across remote areas.
 
 A single break or fault in the fence can significantly reduce its effectiveness, as the sections beyond the fault location may no longer receive the required electrical energy. Such damage can occur due to elephant activity, environmental conditions, or physical deterioration of the fence structure.
 

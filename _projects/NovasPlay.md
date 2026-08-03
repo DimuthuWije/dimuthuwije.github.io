@@ -69,3 +69,26 @@ During the initial competition round, NovasPlay achieved a **5 - 1 victory**, de
 <div class="caption">
     Interactive CAD model of NovasPlay alongside the competition-winning robot.
 </div>
+
+---
+
+## From Design to Reality
+
+The animation below illustrates the transition from the original CAD model to the completed competition robot, highlighting the implementation of the final mechanical design.
+
+<div class="row justify-content-center">
+
+    <div class="col-sm-8 mt-3 mt-md-0">
+
+        {% include figure.liquid
+        path="assets/img/projects/novasPlayThumbnail.gif"
+        title="From CAD model to completed robot"
+        class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
+
+<div class="caption">
+    Transition from the CAD model to the fabricated NovasPlay robot.
+</div>
