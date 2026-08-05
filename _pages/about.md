@@ -12,8 +12,8 @@ profile:
   image: DP.jpg
   image_circular: false
   more_info: >
-    <p style="font-size: 0.95rem; line-height: 1.2;">Robotics & Autonomous Systems</p>
-    <p style="font-size: 0.95rem; line-height: 1.2;">Mobile Robotics • Perception</p>
+    <p style="font-size: 0.95rem; line-height: 1.4;">Robotics & Autonomous Systems</p>
+    <p style="font-size: 0.95rem; line-height: 2.8;">Mobile Robotics • Perception</p>
 
 selected_papers: true
 social: true
@@ -33,10 +33,10 @@ I previously worked as an **Undergraduate Research Assistant** at <a href="https
 
 As an **Application Engineer** at <a href="https://www.synopsys.com">Synopsys</a>, I contribute to semiconductor verification solutions while continuing to develop my robotics portfolio through research projects, engineering projects and publications.
 
-## Research Interests
+<h2><a href="/projects/" class="section-link">Research Interests</a></h2>
 
-- Autonomous Mobile Robotics
+- Autonomous Mobile Robots
 - Robot Perception & Sensor Integration
 - Navigation in Unstructured Environments
 - Embedded Robotic Systems
-- Intelligent Robot Control
+- Intelligent Robot Controls

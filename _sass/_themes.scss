@@ -70,3 +70,26 @@ html[data-theme='system'] {
   border-color: var(--global-theme-color);
   outline: none;
 }
+
+/*******************************************************************************
+ * Publication Abbreviation Badge
+ ******************************************************************************/
+
+.abbr,
+.abbr a {
+  color: #ffffff !important;
+}
+
+/*******************************************************************************
+ * About page Research Interests Section
+ ******************************************************************************/
+
+.section-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.section-link:hover {
+  color: inherit;
+  text-decoration: underline;
+}

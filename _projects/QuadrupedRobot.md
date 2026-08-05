@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quadruped Robotic Platform
+title: Quadruped Robot
 description: 3D-Printed Legged Robotic Platform
 img: assets/img/projects/QuadrupedRobotBanner.jpg
 importance: 6
