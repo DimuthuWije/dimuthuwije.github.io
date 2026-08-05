@@ -35,8 +35,8 @@ As an **Application Engineer** at <a href="https://www.synopsys.com">Synopsys</a
 
 <h2><a href="/projects/" class="section-link">Research Interests</a></h2>
 
-- Autonomous Mobile Robots
+- Autonomous Mobile Robotics
 - Robot Perception & Sensor Integration
 - Navigation in Unstructured Environments
 - Embedded Robotic Systems
-- Intelligent Robot Controls
+- Intelligent Robot Control
