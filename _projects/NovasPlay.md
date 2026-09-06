@@ -43,7 +43,7 @@ The complete mechanical assembly, electronics integration, and system testing we
 
 During the initial competition round, NovasPlay achieved a **5 - 1 victory**, demonstrating the effectiveness of the mechanical design and control system.
 
-<strong>Please wait a few seconds</strong> while the interactive 3D model below loads.
+<strong style="color: #e53200;">Please wait a few seconds</strong> while the interactive 3D model below loads.
 
 <div class="row justify-content-sm-center">
 

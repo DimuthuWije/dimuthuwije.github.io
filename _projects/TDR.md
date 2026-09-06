@@ -37,7 +37,7 @@ The objective was to investigate a low-cost approach for locating discontinuitie
 </div>
 
 <div class="caption">
-    Electric fence monitoring concept motivating the development of a low-cost fault detection approach.
+    Model electric fence setup used during the development of the low-cost fault detection approach.
 </div>
 
 ---
